@@ -5,4 +5,4 @@ Write a program that reads the length of the base and the height of a right-angl
 num1 = int(input("enter the base of triangle"))
 num2 = int(input("enter the height of triangel"))
 area = num1 * num2
-print("The Area of right angled triangel:",area)
+print("The Area of right angled triangel:",area)35
